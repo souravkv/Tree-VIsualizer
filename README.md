@@ -20,10 +20,6 @@ A simple Next.js application that allows users to input a tree in level order an
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/ASWINKMANOJ/Binarytree-Traversal-Visualization.git
-   cd Binarytree-Traversal-Visualization
-   ```
 
 2. Install dependencies:
 
